@@ -1,0 +1,47 @@
+body{
+    background-color: aquamarine;
+}
+.wrapper{
+    display: flex;
+    height: 100%;
+    padding-left: 30%;
+    padding-top: 10%;
+    
+    overflow: hidden;
+}
+.flag{
+    height: 180px;
+    width: 270px;
+    background-color:rgb(8, 47, 8);
+    position: relative;
+}
+
+.circle{
+
+    height:70px;
+    width: 70px;
+    border-radius: 50%;
+
+    
+    background-color: red;
+}
+#gola{
+
+padding-left:90px ;
+padding-top: 50px;
+
+}
+.stick{
+    height: 400px;
+    width: 10px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: black;
+
+}
+h1{
+    font-size: 60px;
+    font-weight: 30px;
+}

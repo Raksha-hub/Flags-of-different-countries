@@ -1,0 +1,56 @@
+body{
+background-color: aquamarine;
+}
+.container{
+    display: flex;
+
+    height: 100%;
+    padding-left: 30%;
+    padding-top: 10%;
+}
+.stick{
+    height: 400px;
+    width: 10px;
+    background-color: black;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.flag{
+    display: inline-flex;
+    height: 180px;
+    width: 270px;
+    background-color: transparent;
+}
+.left{
+    height: 180px;
+    width: 50px;
+    background-color:rgb(192,12,11);
+}
+.right{
+    height: 180px;
+    width: 50px;
+    background-color:rgb(192,12,11);
+}
+.middle{
+    height: 180px;
+    width:170px ;
+    background-color: white;
+    
+
+}
+.img{
+    
+    padding-left: 100px;
+    padding-top: 50px;
+
+    height: 60px;
+    
+
+}
+h1{
+    font-size: 60px;
+    font-weight: 30px;
+}
+
